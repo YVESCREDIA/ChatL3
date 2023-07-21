@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "941333352264",
+    "project_id": "l3gl-d7384",
+    "storage_bucket": "l3gl-d7384.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:941333352264:android:530423bf10ec3911a9ed7d",
+        "android_client_info": {
+          "package_name": "com.example.chatl3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "941333352264-j312t7vtuu38ee2cg2i6r149btpmqp3m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLe881MQ-_ucEFOSkuUKU_QZm20-UYOP4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "941333352264-j312t7vtuu38ee2cg2i6r149btpmqp3m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
